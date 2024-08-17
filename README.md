@@ -23,5 +23,6 @@ I enjoy diving into data, exploring new technologies, and turning complex challe
 
 📫 **Get in Touch**:
 Feel free to reach out via [email](mailto:kaurcs2001@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sukhpreet-kaur-a0b6bb282/) and [GitHub](https://github.com/Sukhpreet2001/). Let’s chat about data, tech, or anything else!
+To Know More About Me You can Go through my [portfolio](https://sukhpreet2001.github.io/) and [project diary]([#]):
 
 🚀 Let’s build something amazing together!
