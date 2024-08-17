@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi there! I'm **Sukhpreet Kaur**.
 
-<!--
-**Sukhpreet2001/Sukhpreet2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **About Me**:
+I’m a passionate **Data Scientist** and **Machine Learning Enthusiast** with a knack for solving real-world problems using innovative techniques. My journey includes exploring advanced **NLP**, **ML**, and **AI** technologies to build impactful solutions.
 
-Here are some ideas to get you started:
+🔧 **Skills & Technologies**:
+- **Programming**: Python,SQL,PL/SQL, C++, JavaScript
+- **Data Science**: Machine Learning, Deep Learning, NLP,Generative AI,Large Language Model
+- **Tools**: Dataiku, Docker, GitHub
+- **Web Development**: FastAPI, MkDocs, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Experience**:
+- Completed a 6-month **Data Science Internship** at **Sabudh Foundation**, where I worked on projects involving **CNN**, **RAG systems**, and **academic research chatbots**.
+- Developed **Scriptus**, a tool for generating presentation slides from various text sources, leveraging **Hugging Face** models.
+
+📚 **Certifications**:
+- **NPTEL**: Software Testing, Privacy & Security in Online Social Media, Ethical Hacking, and more.
+- **Dataiku**: Advanced Designer, ML Practitioner.
+- **DeepLearning.ai**: Building Systems with ChatGPT AI, Prompt Engineering, Knowledge Graphs for RAG, and LangChain.
+
+🌟 **Interests**:
+I enjoy diving into data, exploring new technologies, and turning complex challenges into elegant solutions. I’m always eager to connect with like-minded individuals and collaborate on exciting projects.
+
+📫 **Get in Touch**:
+Feel free to reach out via [email](mailto:kaurcs2001@gmail.com) or connect with me on [LinkedIn](#) and [GitHub](#). Let’s chat about data, tech, or anything else!
+
+🚀 Let’s build something amazing together!
