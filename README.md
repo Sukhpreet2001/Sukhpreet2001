@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm **Sukhpreet Kaur**.
+# 👋 Hi there! I'm **Sukhpreet Kaur**.
 
 🔍 **About Me**:
 I’m a passionate **Data Science** and **Machine Learning Enthusiast** with a knack for solving real-world problems using innovative techniques. My journey includes exploring advanced **NLP**, **ML**, and **AI** technologies to build impactful solutions.
